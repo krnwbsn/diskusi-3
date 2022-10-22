@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ani",
+    "class": "A",
+    "score": 80
+  },
+  {
+    "id": 2,
+    "name": "Budi",
+    "class": "B",
+    "score": 70
+  },
+  {
+    "id": 3,
+    "name": "Caca",
+    "class": "B",
+    "score": 40
+  },
+  {
+    "id": 4,
+    "name": "Suhe",
+    "class": "A",
+    "score": 50
+  }
+]
